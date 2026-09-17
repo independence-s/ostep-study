@@ -1,0 +1,8 @@
+.DS_Store
+*.out
+*.o
+build/
+
+# 教材 PDF：体积大（7MB+），不适合放进 git 历史
+# 原文请从 OSTEP 官网获取，本仓库只保存自己的笔记
+*.pdf
